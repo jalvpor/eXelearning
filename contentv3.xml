@@ -106,7 +106,7 @@
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
-     <string value="singlepage"></string>
+     <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
      <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado"></string>
      <string role="key" value="parent"></string>
@@ -130,7 +130,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:Aprendizaje%20y%20desarrollo%20de%20la%20personalidad%20%284%20ECTS%29"></string>
         <string role="key" value="parent"></string>
@@ -154,7 +154,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:Aprendizaje%20y%20desarrollo%20de%20la%20personalidad%20%284%20ECTS%29:Tema%201"></string>
            <string role="key" value="parent"></string>
@@ -304,7 +304,7 @@
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="singlepage"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:Aprendizaje%20y%20desarrollo%20de%20la%20personalidad%20%284%20ECTS%29:Tema%201:1.1.%20Aprendizaje%2C%20desarrollo%20y%20educaci%C3%B3n"></string>
               <string role="key" value="parent"></string>
@@ -331,7 +331,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:Aprendizaje%20y%20desarrollo%20de%20la%20personalidad%20%284%20ECTS%29:Secci%C3%B3n"></string>
            <string role="key" value="parent"></string>
@@ -358,7 +358,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:Procesos%20y%20contextos%20educativos%20%20%286%20ECTS%29"></string>
         <string role="key" value="parent"></string>
@@ -384,7 +384,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:Sociedad%2C%20familia%20y%20educaci%C3%B3n%20%284%20ECTS%29"></string>
         <string role="key" value="parent"></string>
@@ -410,7 +410,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:Fundamentos%20del%20desarrollo%20curricular%20%286%20ECTS%29"></string>
         <string role="key" value="parent"></string>
@@ -436,7 +436,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:%20Desarrollo%20curricular%20de%20la%20Biolog%C3%ADa%20y%20Geolog%C3%ADa%20%288%20ECTS%29"></string>
         <string role="key" value="parent"></string>
@@ -462,7 +462,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:Did%C3%A1ctica%20de%20la%20Biolog%C3%ADa%20y%20Geolog%C3%ADa%20%288%20ECTS%29"></string>
         <string role="key" value="parent"></string>
@@ -488,7 +488,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:Investigai%C3%B3n%20en%20educaci%C3%B3n%20e%20innovaci%C3%B3n%20educativa%20%283%20ECTS%29"></string>
         <string role="key" value="parent"></string>
@@ -514,7 +514,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:Evaluaci%C3%B3n%20de%20la%20pr%C3%A1ctica%20docente%20%283%20ECTS%29"></string>
         <string role="key" value="parent"></string>
@@ -540,7 +540,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:Pr%C3%A1cticas%20Externas%20%2812%20ECTS%29"></string>
         <string role="key" value="parent"></string>
@@ -566,7 +566,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:M%C3%A1ter%20de%20formaci%C3%B3n%20del%20profesorado:TFM%20%286%20ECTS%29"></string>
         <string role="key" value="parent"></string>
@@ -616,7 +616,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="6"></reference>
+  <reference key="2"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
