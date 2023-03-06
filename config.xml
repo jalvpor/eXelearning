@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <theme>
     <name>Estilo propio</name>
-    <version>1.19</version>
-    <compatibility>2.7</compatibility>
-    <author>eXeLearning.net</author>
+    <version>1.8</version>
+    <compatibility>2.8-r2.8</compatibility>
+    <author>Jennifer Álvarez</author>
     <author-url>http://exelearning.net</author-url>
     <license>Creative Commons by-sa</license>
     <license-url>http://creativecommons.org/licenses/by-sa/4.0/</license-url>
