@@ -235,7 +235,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="persona_ejercicio.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpYUNZ_H/persona_ejercicio.jpg"></string>
+                  <string value="/tmp/tmpvmsIPL/persona_ejercicio.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="89abdd1c6cb71af57656fca6388e3974"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -655,7 +655,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="estructura_primaria_de_las_proteinas.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpYUNZ_H/estructura_primaria_de_las_proteinas.jpg"></string>
+                        <string value="/tmp/tmpvmsIPL/estructura_primaria_de_las_proteinas.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f68a005a177756ed2632a8787ffd12eb"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -982,7 +982,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="4"></reference>
+  <reference key="11"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
