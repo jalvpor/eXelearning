@@ -60,60 +60,27 @@ body{padding:0;text-align:center}
 	body #content{background:#FFF}
 	#headerContent{white-space:normal;text-overflow:normal;font-weight:bold}
 }
-/* eXeLearning Style Designer */
-#content{
-/*contentBGColor*/
-background-color:#d1efb3;
+/* eXeLearning Style Designer */#content{/*contentBGColor*/background-color:#d1efb3;}
+#exe-client-search-text{border-color:#67c107;}
+#exe-client-search-submit{/*searchBarButtonBGColor*/background:#67c107;border-color:#67c107;}
+.pagination a,#nav-toggler a,#skipNav a{/*nav2BGColor*/background-color:#333333;/*nav2AColor*/color:#ffffff;}
+.pagination a:hover,.pagination a:focus,#nav-toggler a:hover{/*nav2HoverBGColor*/background-color:#555555;}
+body{/*bodyBGColor*/background-color:#94c95e;}
+#siteNav,#siteNav a{/*navBGColor*/background-color:#ffffff;/*navAColor*/color:#67c107;/*navBorderColor*/border-color:#ffffff;}
+@media screen and (min-width: 701px) and (max-width: 1015px){#siteNav,#siteNav ul{background-color:#ffffff;border-color:#ffffff;}
+#siteNav li{background-color:#ffffff;}
 }
-.pagination a,#nav-toggler a,#skipNav a{
-/*nav2BGColor*/
-background-color:#333333;
-/*nav2AColor*/
-color:#ffffff;
+#siteNav a:hover,#siteNav a:focus,#siteNav a.active{/*navHoverBGColor*/background-color:#ffffff;/*navAHoverColor*/color:#000000;}
+@media screen and (min-width: 701px) and (max-width: 1015px){#siteNav li:hover,#siteNav li.sfhover{background-color:#ffffff;}
 }
-.pagination a:hover,.pagination a:focus,#nav-toggler a:hover{
-/*nav2HoverBGColor*/
-background-color:#555555;
-}
-body{
-/*bodyBGColor*/
-background-color:#94c95e;
-}
-#siteNav,#siteNav a{
-/*navBGColor*/
-background-color:#f9f9f9;
-/*navAColor*/
-color:#555555;
-/*navBorderColor*/
-border-color:#dddddd;
-}
-@media screen and (min-width: 701px) and (max-width: 1015px){
-#siteNav,#siteNav ul{
-background-color:#f9f9f9;border-color:#dddddd;
-}
-#siteNav li{
-background-color:#f9f9f9;
-}
-}
-#siteNav a:hover,#siteNav a:focus,#siteNav a.active{
-/*navHoverBGColor*/
-background-color:#ffffff;
-/*navAHoverColor*/
-color:#000000;
-}
-@media screen and (min-width: 701px) and (max-width: 1015px){
-#siteNav li:hover,#siteNav li.sfhover{
-background-color:#ffffff;
-}
-}
-.pagination{
-border-color:#dddddd;
-}
-#bottomPagination{
-background-color:#ffffff;
-}
+.pagination{border-color:#dddddd;}
+#bottomPagination .page-counter{color:#ffffff;}
+#bottomPagination{background-color:#ffffff;}
 /* eXeLearning Style Designer (custom CSS) */
 
 .pagination .print-page{
 display:none;
 }
+
+
+

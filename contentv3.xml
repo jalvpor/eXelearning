@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<instance xmlns="http://www.exelearning.org/content/v0.3" reference="4" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
+<instance xmlns="http://www.exelearning.org/content/v0.3" reference="2" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="Curso nutrición y fisiología digestiva "></unicode>
+  <unicode value="Nutrició para domingueros"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addPagination"></string>
@@ -15,9 +15,9 @@
   <string role="key" value="_backgroundImg"></string>
   <unicode value=""></unicode>
   <string role="key" value="_contextMode"></string>
-  <unicode value=""></unicode>
+  <unicode value="presencial"></unicode>
   <string role="key" value="_contextPlace"></string>
-  <unicode value=""></unicode>
+  <unicode value="classroom"></unicode>
   <string role="key" value="_description"></string>
   <unicode value="Curso nutrición"></unicode>
   <string role="key" value="_docType"></string>
@@ -67,7 +67,7 @@
   <string role="key" value="_intendedEndUserRoleTutor"></string>
   <bool value="0"></bool>
   <string role="key" value="_intendedEndUserRoleType"></string>
-  <unicode value=""></unicode>
+  <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
   <bool value="0"></bool>
   <string role="key" value="_isTemplate"></string>
@@ -87,14 +87,14 @@
   <string role="key" value="_nextIdeviceId"></string>
   <int value="5"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="12"></int>
+  <int value="13"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
-   <instance class="exe.engine.node.Node" reference="3">
+   <instance class="exe.engine.node.Node" reference="4">
     <dictionary>
      <string role="key" value="_title"></string>
-     <unicode value="Inicio"></unicode>
+     <unicode value="Nutrición para domingueros"></unicode>
      <string role="key" value="idevices"></string>
      <list>
       <instance class="exe.engine.jsidevice.JsIdevice" reference="1">
@@ -158,7 +158,7 @@
         <int value="1"></int>
         <string role="key" value="fields"></string>
         <list>
-         <instance class="exe.engine.field.TextAreaField" reference="2">
+         <instance class="exe.engine.field.TextAreaField" reference="3">
           <dictionary>
            <string role="key" value="_id"></string>
            <unicode value="120_2"></unicode>
@@ -170,8 +170,12 @@
            <string value=""></string>
            <string role="key" value="anchor_names"></string>
            <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Todos nos hemos propuesto alguna vez perder peso, hacer más ejercicio o comer más sano. Yo misma puedo incluirme en estos tres supuestos, pero cada vez es más habitual ver deportistas &lt;em&gt;amateurs &lt;/em&gt;interesados por suplementos, dietas o alimentos de moda.&lt;/p&gt;
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/persona_ejercicio.jpg&quot; alt=&quot;hombre haciendo plancha&quot; title=&quot;hombre haciendo ejercicio&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;481&quot; height=&quot;294&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Todos nos hemos propuesto alguna vez perder peso, hacer más ejercicio o comer más sano. Yo misma puedo incluirme en estos tres supuestos, pero cada vez es más habitual ver deportistas &lt;em&gt;amateurs &lt;/em&gt;interesados por suplementos, dietas o alimentos de moda.&lt;/p&gt;
 &lt;p&gt;Este boom del deporte y el negocio que gira a su alrededor me hace preguntarme si no seré yo la que está equivocada y debería empezar a tomar batidos &lt;em&gt;detox. &lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Si te has preguntado alguna vez ¿Qué es la creatina?, ¿Cómo funciona la digestión?, ¿Debo tomar más proteínas para aprovechar mejor el ejercicio?, ¿Realmente estoy bien alimentado?.&lt;/p&gt;
 &lt;p&gt;Aquí podrás encontrar respuesta a alguna de tus preguntas y con toda esa información en la mano podrás valorar y tener tu propia opinión sin influencias de las modas y la publicidad.&lt;/p&gt;
@@ -199,17 +203,70 @@
            <instance class="exe.engine.galleryidevice.GalleryImages">
             <dictionary>
              <string role="key" value=".listitems"></string>
-             <list></list>
+             <list>
+              <instance class="exe.engine.galleryidevice.GalleryImage">
+               <dictionary>
+                <string role="key" value="_caption"></string>
+                <instance class="exe.engine.field.TextField">
+                 <dictionary>
+                  <string role="key" value="_id"></string>
+                  <int value="245"></int>
+                  <string role="key" value="_idevice"></string>
+                  <none></none>
+                  <string role="key" value="_instruc"></string>
+                  <string value=""></string>
+                  <string role="key" value="_name"></string>
+                  <string value=""></string>
+                  <string role="key" value="content"></string>
+                  <string value=""></string>
+                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                  <int value="4"></int>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_id"></string>
+                <unicode value="4_120_2.3"></unicode>
+                <string role="key" value="_imageResource"></string>
+                <instance class="exe.engine.resource.Resource" reference="5">
+                 <dictionary>
+                  <string role="key" value="_idevice"></string>
+                  <reference key="1"></reference>
+                  <string role="key" value="_package"></string>
+                  <reference key="2"></reference>
+                  <string role="key" value="_storageName"></string>
+                  <string value="persona_ejercicio.jpg"></string>
+                  <string role="key" value="_userName"></string>
+                  <string value="/tmp/tmpYUNZ_H/persona_ejercicio.jpg"></string>
+                  <string role="key" value="checksum"></string>
+                  <string value="89abdd1c6cb71af57656fca6388e3974"></string>
+                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="warningMsg"></string>
+                  <string value=""></string>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_parent"></string>
+                <reference key="3"></reference>
+                <string role="key" value="_thumbnailResource"></string>
+                <none></none>
+                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="makeThumbnail"></string>
+                <bool value="0"></bool>
+               </dictionary>
+              </instance>
+             </list>
              <string role="key" value="idevice"></string>
-             <reference key="2"></reference>
+             <reference key="3"></reference>
             </dictionary>
            </instance>
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="0"></int>
+           <int value="4"></int>
            <string role="key" value="parentNode"></string>
-           <none></none>
+           <reference key="4"></reference>
           </dictionary>
          </instance>
         </list>
@@ -226,13 +283,15 @@
         <string role="key" value="originalicon"></string>
         <string value=""></string>
         <string role="key" value="parentNode"></string>
-        <reference key="3"></reference>
+        <reference key="4"></reference>
         <string role="key" value="systemResources"></string>
         <list></list>
         <string role="key" value="undo"></string>
         <bool value="1"></bool>
         <string role="key" value="userResources"></string>
-        <list></list>
+        <list>
+         <reference key="5"></reference>
+        </list>
         <string role="key" value="version"></string>
         <int value="0"></int>
        </dictionary>
@@ -241,24 +300,28 @@
      <string role="key" value="_id"></string>
      <unicode value="0"></unicode>
      <string role="key" value="_package"></string>
-     <reference key="4"></reference>
+     <reference key="2"></reference>
+     <string role="key" value="anchor_fields"></string>
+     <list></list>
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
      <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:Inicio"></string>
+     <string value="exe-node:Nutrici%C3%B3n%20para%20domingueros"></string>
      <string role="key" value="parent"></string>
      <none></none>
+     <string role="key" value="top_anchors_linked_from_fields"></string>
+     <list></list>
      <string role="key" value="children"></string>
      <list>
-      <instance class="exe.engine.node.Node" reference="7">
+      <instance class="exe.engine.node.Node" reference="8">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Los macronutrientes y micronutrientes."></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="5">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="6">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="¿Nutrirse o alimentarse?"></unicode>
@@ -319,12 +382,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="6">
+            <instance class="exe.engine.field.TextAreaField" reference="7">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="125_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="5"></reference>
+              <reference key="6"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -363,7 +426,7 @@
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="6"></reference>
+                <reference key="7"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -371,7 +434,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="7"></reference>
+              <reference key="8"></reference>
              </dictionary>
             </instance>
            </list>
@@ -388,7 +451,7 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="7"></reference>
+           <reference key="8"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -403,7 +466,7 @@
         <string role="key" value="_id"></string>
         <unicode value="6"></unicode>
         <string role="key" value="_package"></string>
-        <reference key="4"></reference>
+        <reference key="2"></reference>
         <string role="key" value="anchor_fields"></string>
         <list></list>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
@@ -411,20 +474,20 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Inicio:Los%20macronutrientes%20y%20micronutrientes."></string>
+        <string value="exe-node:Nutrici%C3%B3n%20para%20domingueros:Los%20macronutrientes%20y%20micronutrientes."></string>
         <string role="key" value="parent"></string>
-        <reference key="3"></reference>
+        <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="10">
+         <instance class="exe.engine.node.Node" reference="11">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Tema 1: Las proteínas."></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="8">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="9">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="¿Qué son las proteínas?"></unicode>
@@ -485,12 +548,12 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="9">
+               <instance class="exe.engine.field.TextAreaField" reference="10">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="126_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="8"></reference>
+                 <reference key="9"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -567,7 +630,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="238"></int>
+                        <int value="246"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -581,18 +644,18 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="2_126_2.3"></unicode>
+                      <unicode value="2_126_2.7"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="11">
+                      <instance class="exe.engine.resource.Resource" reference="12">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="8"></reference>
+                        <reference key="9"></reference>
                         <string role="key" value="_package"></string>
-                        <reference key="4"></reference>
+                        <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="estructura_primaria_de_las_proteinas.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpsoTZ1j/estructura_primaria_de_las_proteinas.jpg"></string>
+                        <string value="/tmp/tmpYUNZ_H/estructura_primaria_de_las_proteinas.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f68a005a177756ed2632a8787ffd12eb"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -604,7 +667,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="9"></reference>
+                      <reference key="10"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -615,15 +678,15 @@
                     </instance>
                    </list>
                    <string role="key" value="idevice"></string>
-                   <reference key="9"></reference>
+                   <reference key="10"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="4"></int>
+                 <int value="8"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="10"></reference>
+                 <reference key="11"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -640,14 +703,14 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="10"></reference>
+              <reference key="11"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="11"></reference>
+               <reference key="12"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
@@ -657,7 +720,7 @@
            <string role="key" value="_id"></string>
            <unicode value="7"></unicode>
            <string role="key" value="_package"></string>
-           <reference key="4"></reference>
+           <reference key="2"></reference>
            <string role="key" value="anchor_fields"></string>
            <list></list>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
@@ -665,22 +728,22 @@
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Inicio:Los%20macronutrientes%20y%20micronutrientes.:Tema%201%3A%20Las%20prote%C3%ADnas."></string>
+           <string value="exe-node:Nutrici%C3%B3n%20para%20domingueros:Los%20macronutrientes%20y%20micronutrientes.:Tema%201%3A%20Las%20prote%C3%ADnas."></string>
            <string role="key" value="parent"></string>
-           <reference key="7"></reference>
+           <reference key="8"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="14">
+         <instance class="exe.engine.node.Node" reference="15">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Tema 2: Glúcidos o hidratos de carbono."></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="12">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="13">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="¿Qué son los glúcidos?"></unicode>
@@ -741,12 +804,12 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="13">
+               <instance class="exe.engine.field.TextAreaField" reference="14">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="120_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="12"></reference>
+                 <reference key="13"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -782,7 +845,7 @@
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="13"></reference>
+                   <reference key="14"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -790,7 +853,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="14"></reference>
+                 <reference key="15"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -807,7 +870,7 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="14"></reference>
+              <reference key="15"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -822,7 +885,7 @@
            <string role="key" value="_id"></string>
            <unicode value="11"></unicode>
            <string role="key" value="_package"></string>
-           <reference key="4"></reference>
+           <reference key="2"></reference>
            <string role="key" value="anchor_fields"></string>
            <list></list>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
@@ -830,9 +893,9 @@
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Inicio:Los%20macronutrientes%20y%20micronutrientes.:Tema%202%3A%20Gl%C3%BAcidos%20o%20hidratos%20de%20carbono."></string>
+           <string value="exe-node:Nutrici%C3%B3n%20para%20domingueros:Los%20macronutrientes%20y%20micronutrientes.:Tema%202%3A%20Gl%C3%BAcidos%20o%20hidratos%20de%20carbono."></string>
            <string role="key" value="parent"></string>
-           <reference key="7"></reference>
+           <reference key="8"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -842,7 +905,7 @@
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="15">
+      <instance class="exe.engine.node.Node" reference="16">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Fisiología y metabolísmo."></unicode>
@@ -851,7 +914,7 @@
         <string role="key" value="_id"></string>
         <unicode value="10"></unicode>
         <string role="key" value="_package"></string>
-        <reference key="4"></reference>
+        <reference key="2"></reference>
         <string role="key" value="anchor_fields"></string>
         <list></list>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
@@ -859,9 +922,35 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Inicio:Fisiolog%C3%ADa%20y%20metabol%C3%ADsmo."></string>
+        <string value="exe-node:Nutrici%C3%B3n%20para%20domingueros:Fisiolog%C3%ADa%20y%20metabol%C3%ADsmo."></string>
         <string role="key" value="parent"></string>
-        <reference key="3"></reference>
+        <reference key="4"></reference>
+        <string role="key" value="top_anchors_linked_from_fields"></string>
+        <list></list>
+        <string role="key" value="children"></string>
+        <list></list>
+       </dictionary>
+      </instance>
+      <instance class="exe.engine.node.Node" reference="17">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <string value=""></string>
+        <string role="key" value="idevices"></string>
+        <list></list>
+        <string role="key" value="_id"></string>
+        <unicode value="12"></unicode>
+        <string role="key" value="_package"></string>
+        <reference key="2"></reference>
+        <string role="key" value="anchor_fields"></string>
+        <list></list>
+        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+        <int value="2"></int>
+        <string role="key" value="exportType"></string>
+        <string value="website"></string>
+        <string role="key" value="last_full_node_path"></string>
+        <string value="exe-node:Nutrici%C3%B3n%20para%20domingueros:Tema"></string>
+        <string role="key" value="parent"></string>
+        <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
@@ -872,13 +961,15 @@
     </dictionary>
    </instance>
    <unicode role="key" value="10"></unicode>
-   <reference key="15"></reference>
+   <reference key="16"></reference>
    <unicode role="key" value="11"></unicode>
-   <reference key="14"></reference>
+   <reference key="15"></reference>
+   <unicode role="key" value="12"></unicode>
+   <reference key="17"></reference>
    <unicode role="key" value="6"></unicode>
-   <reference key="7"></reference>
+   <reference key="8"></reference>
    <unicode role="key" value="7"></unicode>
-   <reference key="10"></reference>
+   <reference key="11"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -891,7 +982,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="3"></reference>
+  <reference key="4"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -922,7 +1013,7 @@
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="Curso nutrición y fisiología digestiva "></unicode>
+    <unicode value="Nutrició para domingueros"></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -934,7 +1025,7 @@
   <string role="key" value="exportSource"></string>
   <bool value="1"></bool>
   <string role="key" value="footer"></string>
-  <string value=""></string>
+  <unicode value=""></unicode>
   <string role="key" value="isLoading"></string>
   <bool value="0"></bool>
   <string role="key" value="license"></string>
@@ -957,13 +1048,117 @@
        <string role="key" value="cognitiveProcess"></string>
        <list></list>
        <string role="key" value="context"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="other"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="school"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="description"></string>
        <list></list>
        <string role="key" value="difficulty"></string>
        <none></none>
        <string role="key" value="intendedEndUserRole"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="learner"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="interactivityLevel"></string>
        <none></none>
        <string role="key" value="interactivityType"></string>
@@ -1104,7 +1299,7 @@
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Curso nutrici\xc3\xb3n y fisiolog\xc3\xada digestiva "></string>
+           <string value="Nutrici\xc3\xb3 para domingueros"></string>
           </dictionary>
          </instance>
         </list>
@@ -1414,13 +1609,117 @@
        <string role="key" value="cognitiveProcess"></string>
        <list></list>
        <string role="key" value="context"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="presencial"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="classroom"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="description"></string>
        <list></list>
        <string role="key" value="difficulty"></string>
        <none></none>
        <string role="key" value="intendedEndUserRole"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="learner"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="interactivityLevel"></string>
        <none></none>
        <string role="key" value="interactivityType"></string>
@@ -1561,7 +1860,7 @@
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Curso nutrici\xc3\xb3n y fisiolog\xc3\xada digestiva "></string>
+           <string value="Nutrici\xc3\xb3 para domingueros"></string>
           </dictionary>
          </instance>
         </list>
@@ -1925,13 +2224,17 @@
   <string value="2.8"></string>
   <string role="key" value="resources"></string>
   <dictionary>
+   <string role="key" value="89abdd1c6cb71af57656fca6388e3974"></string>
+   <list>
+    <reference key="5"></reference>
+   </list>
    <string role="key" value="f68a005a177756ed2632a8787ffd12eb"></string>
    <list>
-    <reference key="11"></reference>
+    <reference key="12"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
-  <reference key="3"></reference>
+  <reference key="4"></reference>
   <string role="key" value="scolinks"></string>
   <bool value="0"></bool>
   <string role="key" value="scowsinglepage"></string>
