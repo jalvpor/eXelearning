@@ -87,7 +87,7 @@
   <string role="key" value="_nextIdeviceId"></string>
   <int value="17"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="24"></int>
+  <int value="25"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -210,7 +210,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="276"></int>
+                  <int value="291"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -224,7 +224,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="4_120_2.12"></unicode>
+                <unicode value="4_120_2.14"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -235,7 +235,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="persona_ejercicio.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmplH9aQ0/persona_ejercicio.jpg"></string>
+                  <string value="/tmp/tmp_sRDah/persona_ejercicio.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="89abdd1c6cb71af57656fca6388e3974"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -264,7 +264,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="13"></int>
+           <int value="15"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -630,7 +630,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="280"></int>
+                        <int value="294"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -644,7 +644,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="2_126_2.16"></unicode>
+                      <unicode value="2_126_2.18"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="12">
                        <dictionary>
@@ -655,7 +655,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="estructura_primaria_de_las_proteinas.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmplH9aQ0/estructura_primaria_de_las_proteinas.jpg"></string>
+                        <string value="/tmp/tmp_sRDah/estructura_primaria_de_las_proteinas.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f68a005a177756ed2632a8787ffd12eb"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -684,7 +684,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="17"></int>
+                 <int value="19"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="11"></reference>
                 </dictionary>
@@ -792,9 +792,13 @@
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Estructura básica de un aminoácido&lt;/p&gt;
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Los aminoácidos son....&lt;/p&gt;
+&lt;p&gt;Los esenciales son...&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Grupo -NH3 o grupo amino más un grupo prostético.&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;Los&lt;strong&gt; &lt;a title=&quot;Aminoácidos esenciales&quot; class=&quot;exe-dialog-link&quot; rel=&quot;lightbox&quot; href=&quot;#tb0fb842f-0866-3718-1187-3d9733cf53e8&quot; id=&quot;linkb0fb842f-0866-3718-1187-3d9733cf53e8&quot;&gt;aminoácidos esenciales&lt;/a&gt;&lt;/strong&gt; solo se pueden obtener a través de la dieta y son necesarios para la sintesis de las proteínas.&lt;/p&gt;
+&lt;div id=&quot;tb0fb842f-0866-3718-1187-3d9733cf53e8&quot; class=&quot;exe-dialog-text js-hidden&quot;&gt;
+&lt;p&gt;Para que las células puedan sintetizar proteínas necesitan tener presentes TODOS los aminoácidos, por este motivo es básico una dieta equilibrada que permita obtener los aminoácidos esenciales.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -987,7 +991,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="277"></int>
+                        <int value="292"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1001,7 +1005,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="3_120_2.4"></unicode>
+                      <unicode value="3_120_2.11"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="18">
                        <dictionary>
@@ -1012,7 +1016,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="disac_ridos.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmplH9aQ0/disac_ridos.jpg"></string>
+                        <string value="/tmp/tmp_sRDah/disac_ridos.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="e15b1ec702eff3b0c8a350ab4a41ff96"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1039,7 +1043,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="283"></int>
+                        <int value="293"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1053,7 +1057,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="3_120_2.8"></unicode>
+                      <unicode value="3_120_2.12"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="19">
                        <dictionary>
@@ -1064,7 +1068,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="gluc_geno_y_almid_n.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp5AKKpi.eXe/previews/gluc_geno_y_almid_n.jpg"></string>
+                        <string value="/tmp/tmp_sRDah/gluc_geno_y_almid_n.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="48a797824e05a1f94da0b3590eb289f3"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1093,7 +1097,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="9"></int>
+                 <int value="13"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="17"></reference>
                 </dictionary>
@@ -1582,7 +1586,25 @@
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;anatomíaxcdvgd&lt;/p&gt;
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;El &lt;strong&gt;aparato digestivo&lt;/strong&gt; es el responsable de la digestión de los alimentos, es donde se realiza la digestión y absorción de nutrientes.&lt;/p&gt;
+&lt;p&gt;Cada una de las partes que lo componen tiene una función:&lt;/p&gt;
+&lt;div class=&quot;exe-fx exe-accordion&quot;&gt;
+&lt;h2&gt;La boca:&lt;/h2&gt;
+&lt;p&gt;·Es el punto donde comienza la digestión. Los dientes desmenuzan el alimento y rompen la estructura celular de los alimentos, produciéndose la liberación de algunos nutrientes. Además, la saliva ayuda a lubricar y dar forma al bolo alimentario.&lt;/p&gt;
+&lt;h2&gt;Encabezado 2&lt;/h2&gt;
+&lt;p&gt;Escriba su contenido...&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul style=&quot;list-style-type: square;&quot;&gt;
+&lt;li&gt;&lt;strong&gt;La boca:&lt;/strong&gt; es el punto donde empieza la digestión, los dientes desmenuzan el alimento y rompen la estructura de los alimentos. Además la saliva ayuda a lubricar y dar forma al bolo alimentario.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Esófago:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estómago: &lt;/strong&gt;pH bajo permite romper las estructuras proteícas, las paredes músculares...&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Intestino delgado: &lt;/strong&gt;llega el bolo y se mezclan las enzimas, es donde ocurre la degrdación hasta los elementos capaces de atravesar la barrera intestinal y pasar a la sangre.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Páncreas: &lt;/strong&gt;enzimas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hígado: &lt;/strong&gt;bilis y digestión de las grasas. Es el centro de todas las rutas metabólicas y sínteis y degradación&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Intestino Grueso:&lt;/strong&gt; su principal función es absorber líquidos. Aquí se terminan de descomponer los alimentos sin digerir&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recto y ano:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/Digestive_system_diagram_es.svg&quot; alt=&quot;Sisema digestivo&quot; title=&quot;Sistema digestivo&quot; width=&quot;409&quot; height=&quot;591&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
@@ -1603,7 +1625,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="275"></int>
+                        <int value="290"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1617,7 +1639,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="15_120_2.5"></unicode>
+                      <unicode value="15_120_2.7"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="28">
                        <dictionary>
@@ -1628,7 +1650,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Digestive_system_diagram_es.svg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmplH9aQ0/Digestive_system_diagram_es.svg"></string>
+                        <string value="/tmp/tmp_sRDah/Digestive_system_diagram_es.svg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d3ef0e3abbbacaae15a679cda41b4c77"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1657,7 +1679,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="6"></int>
+                 <int value="8"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="25"></reference>
                 </dictionary>
@@ -1719,7 +1741,7 @@
             <instance class="exe.engine.jsidevice.JsIdevice" reference="30">
              <dictionary>
               <string role="key" value="_title"></string>
-              <unicode value="Degradación de proteínas y aminoácidos."></unicode>
+              <unicode value="Digestión  de proteínas y aminoácidos."></unicode>
               <string role="key" value="_attributes"></string>
               <list>
                <tuple>
@@ -1792,18 +1814,30 @@
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;La catabolización de las proteínas ocurre en distintas etapas:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Rotura de los enlaces entre los péptidos mediante la acción de proteasas.&lt;/li&gt;
-&lt;li&gt;Depradación de los peptidos en aminoácidos.&lt;/li&gt;
-&lt;li&gt;Degradación de aminoácidos y sintesis de urea:
-&lt;ul style=&quot;list-style-type: square;&quot;&gt;
-&lt;li&gt;Degradación del grupo amino (-NH&lt;sub&gt;3&lt;/sub&gt;): en primer lugar se activan las transaminasas y posteriormente se desaminan las proteínas, generando amoníaco. Este amoniaco se transforma en urea en el hígado y después se elimina a través de la orina.&lt;/li&gt;
-&lt;li&gt;Degradación del esqueleto carbonatado: está formado por los distintos aminoácidos y estos pueden ser utilizados para formar otros compuestos proteicos o degradarse para generar energía.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Un 75% de los aa se vuleven a utilizar y el resto se elimina, no se almacenan los sobrantes.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;La digestión de las proteínas ocurre en distintas etapas, en las que se obtienen los aminoácidos que atraviesan la membrana intestinal y pasan a la sangre. A modo de resumen se distinguen las siguientes etapas:&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; ▶&lt;/span&gt; &lt;span style=&quot;font-size: 14pt;&quot;&gt;Boca: &lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;durante la masticación del alimento se rompe el tejido celular y los péptidos pierden su estructura.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; ▶&lt;/span&gt; Estómago:&lt;/strong&gt; &lt;span style=&quot;font-size: 12pt;&quot;&gt;las enzimas y el bajo pH del estómago terminan de romper la estructura de los péptidos.&lt;/span&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; ▶&lt;/span&gt; Duodeno:&lt;/strong&gt; &lt;span style=&quot;font-size: 12pt;&quot;&gt;se produce la rotura de los enlaces de los péptidos (hidrólisis) para liberar los aminoácidos (estructura fundamental de las proteínas). La ruta de digestión de las proteínas tiene dos procesos fundamentales &lt;a title=&quot;Degradación y eliminación&quot; class=&quot;exe-dialog-link&quot; rel=&quot;lightbox&quot; href=&quot;#t3d417763-500a-e8a8-8c21-53f712d3ce6e&quot; id=&quot;link3d417763-500a-e8a8-8c21-53f712d3ce6e&quot;&gt;&lt;span&gt;(ruta completa de degradación de los aa&lt;/span&gt;)&lt;/a&gt;:&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;1. &lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Rotura de los enlaces entre los péptidos mediante la acción de proteasas.&lt;br /&gt;&lt;strong&gt;2.&lt;/strong&gt; Degradación de los péptidos en aminoácidos y ...&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Un 75% de los aa se vuelven a utilizar y los “sobrantes”, son eliminados y que &lt;span style=&quot;color: #156438;&quot;&gt;&lt;strong&gt;no se almacenan los sobrantes&lt;/strong&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;▶ &lt;strong&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Pared intestinal:&lt;/span&gt;&lt;/strong&gt; los aa son capaces de atravesar la pared intestinal y se liberan a la circulación sanguínea.&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;▶&lt;strong&gt; Circulación sanguínea e hígado: &lt;/strong&gt;los aa circulan a través de la circulación hasta las distintas células donde se formaran proteínas como las emzimas, membranas celulares, proteína muscular, etc. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ol&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div id=&quot;ta0210244-0746-638c-df04-1698d6a83e53&quot; class=&quot;exe-dialog-text js-hidden&quot;&gt;
+&lt;p&gt;Un 75% de los aa se vuelven a utilizar y el resto se elimina, &lt;span style=&quot;font-color: green;&quot;&gt;no se almacenan los sobrantes&lt;strong&gt;&amp;lt;span.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&quot;t02e7f580-e7c7-0734-9021-5bcd270b7220&quot; class=&quot;exe-tooltip-text&quot;&gt;
+&lt;p&gt;hhgh&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&quot;t3d417763-500a-e8a8-8c21-53f712d3ce6e&quot; class=&quot;exe-dialog-text js-hidden&quot;&gt;
+&lt;p&gt;1. Rotura de los enlaces entre los péptidos mediante la acción de proteasas.&lt;/p&gt;
+&lt;p&gt;2. Degradación de los péptidos en aminoácidos.&lt;/p&gt;
+&lt;p&gt;3. Degradación de aminoácidos y síntesis de urea:Degradación del grupo amino (-NH3): en primer lugar se activan las transaminasas y posteriormente se desaminan las proteínas, generando amoníaco. Este amoniaco se transforma en urea en el hígado y después se elimina a través de la orina.&lt;/p&gt;
+&lt;p&gt;4. Degradación del esqueleto carbonatado: está formado por los distintos aminoácidos y estos pueden ser utilizados para formar otros compuestos proteicos o degradarse para generar energía.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1857,7 +1891,7 @@
             <instance class="exe.engine.jsidevice.JsIdevice" reference="33">
              <dictionary>
               <string role="key" value="_title"></string>
-              <unicode value="Sintesis de proteínas."></unicode>
+              <unicode value="Sintesis de proteínas y su uso."></unicode>
               <string role="key" value="_attributes"></string>
               <list>
                <tuple>
@@ -1930,7 +1964,13 @@
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Contenido&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Contenido&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; ▶&lt;/span&gt; fdf&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; ▶&lt;/span&gt; fdf&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; ▶&lt;/span&gt; Producción de energía:&lt;/strong&gt; &lt;span style=&quot;font-size: 12pt;&quot;&gt;no es el proceso habitual pero ocurre cuando no hay hidratos de carbono ni grasas disponibles o existen gran cantidad de aa. &lt;strong&gt;amoniaco-urea&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2107,7 +2147,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="282"></int>
+                        <int value="295"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2121,7 +2161,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="14_120_2.3"></unicode>
+                      <unicode value="14_120_2.5"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="38">
                        <dictionary>
@@ -2132,7 +2172,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="hidr_lisis_azucares.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmplH9aQ0/hidr_lisis_azucares.jpg"></string>
+                        <string value="/tmp/tmp_sRDah/hidr_lisis_azucares.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="8591bbb868e2b4c48449297137cb49a0"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2161,7 +2201,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="4"></int>
+                 <int value="6"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="37"></reference>
                 </dictionary>
@@ -2368,6 +2408,32 @@
            <list></list>
           </dictionary>
          </instance>
+         <instance class="exe.engine.node.Node" reference="43">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="2.5. Síntesis de energía."></unicode>
+           <string role="key" value="idevices"></string>
+           <list></list>
+           <string role="key" value="_id"></string>
+           <unicode value="24"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="2"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Nutrici%C3%B3n%20para%20domingueros:Tema%202%3A%20Metabol%C3%ADsmo%20y%20fisiolog%C3%ADa%20digestiva:2.5.%20S%C3%ADntesis%20de%20energ%C3%ADa."></string>
+           <string role="key" value="parent"></string>
+           <reference key="29"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
         </list>
        </dictionary>
       </instance>
@@ -2416,6 +2482,8 @@
    <reference key="37"></reference>
    <unicode role="key" value="21"></unicode>
    <reference key="41"></reference>
+   <unicode role="key" value="24"></unicode>
+   <reference key="43"></reference>
    <unicode role="key" value="6"></unicode>
    <reference key="8"></reference>
    <unicode role="key" value="7"></unicode>
@@ -2432,7 +2500,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="17"></reference>
+  <reference key="37"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
