@@ -85,7 +85,7 @@
   <string role="key" value="_name"></string>
   <unicode value="Nutricin_y_fisiologa_alimentaria_para_principiantes"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="17"></int>
+  <int value="18"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="25"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -173,23 +173,31 @@
            <string role="key" value="anchors_linked_from_fields"></string>
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/persona_ejercicio.jpg&quot; alt=&quot;hombre haciendo plancha&quot; title=&quot;hombre haciendo ejercicio&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;481&quot; height=&quot;294&quot; /&gt;&lt;/p&gt;
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Todos nos hemos propuesto alguna vez perder peso, hacer más ejercicio o comer más sano. Yo misma puedo incluirme en estos tres supuestos, pero cada vez es más habitual ver deportistas &lt;em&gt;amateurs &lt;/em&gt;interesados por suplementos, dietas o alimentos de moda.&lt;/p&gt;
-&lt;p&gt;Este boom del deporte y el negocio que gira a su alrededor me hace preguntarme si no seré yo la que está equivocada y debería empezar a tomar batidos &lt;em&gt;detox. &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Si te has preguntado alguna vez ¿Qué es la creatina?, ¿Cómo funciona la digestión?, ¿Debo tomar más proteínas para aprovechar mejor el ejercicio?, ¿Realmente estoy bien alimentado?.&lt;/p&gt;
-&lt;p&gt;Aquí podrás encontrar respuesta a alguna de tus preguntas y con toda esa información en la mano podrás valorar y tener tu propia opinión sin influencias de las modas y la publicidad.&lt;/p&gt;
-&lt;p&gt;Ya podrás rebatir a tu cuñado que sale dos horas a montar en bicicleta y lleva 3 barritas de proteínas y cuatro geles de glucosa. Pero luego llega a casa y se toma una cerveza junto a una pizza familiar.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/Ciclista_mtb.jpg&quot; alt=&quot;&quot; width=&quot;640&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;¿Por qué este curso?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Todos nos hemos propuesto alguna vez perder peso, hacer más ejercicio o comer más sano. Yo misma puedo incluirme en estos tres supuestos, y no os voy a engañar, la cosa me va regular. La única de estas tres cosas que cumplo con bastante éxito es la de hacer ejercicio.&lt;/p&gt;
+&lt;p&gt;Hace unos años me adentré en el mundo de la bicicleta, y me acabé enganchando a esta &quot;secta&quot;. En mis inicios no entendía como podían gastar esas cantidades de dinero para comprarse una bici o unas zapatillas. En unos años he pesado de tener una bicicleta de baja gama y con la equipación más barata posible a ir con sensores de todo tipo, GPS, equipación buena y estar en posesión de dos bicis y un rodillo (los ciclistas sabéis de qué estoy hablando).&lt;/p&gt;
+&lt;p&gt;Dentro de este mundo pude comprobar como deportistas &lt;em&gt;amateurs &lt;/em&gt;entrenan y cuidan su dieta para competir en carreras duras. Además de eso, combinan su alimentación con batidos recuperados, suplementos, geles y barritas durante sus salidas, etc. Esto es algo que me sorprende y me hace preguntarme si yo debería llevar barritas o geles especiales, en vez del típico plátano o la barrita de cereales de toda la vida (sí, ya lo se son puro azúcar).&lt;/p&gt;
+&lt;p&gt;Este boom de la nutrición deportiva no es algo de exclusivo de ahora, en todos los deportes hay un negocio que gira alrededor de los suplementos nutritivos. Su uso o no, depende de lo que pretendamos conseguir con la práctica de algún deporte. Pero en muchas ocasiones, la gente se deja llevar por la publicidad y no son del todo conscientes que podrían estar prescindiendo de ellos.&lt;/p&gt;
+&lt;p&gt;En general, las personas tienen unos conocimientos básicos sobre nutrición y metabolismo, que les llevan a consumir lo que hay en el mercado sin analizar realmente si lo necesitan. Utilizar estos suplementos puede hacernos sentir &lt;em&gt;profesionales, &lt;/em&gt;pero deportistas de élite tienen a su disposición nutricionistas y entrenadores expertos que velan por su alimentación antes, durante y después de los entrenamientos.  Todo lo que ingieren está medido y controlado por expertos.&lt;/p&gt;
+&lt;p&gt;En este curso aprenderás nociones básicas de anatomía, fisiología, nutrición y alimentación. Con toda esa información en la mano podrás juzgar y valorar si realmente necesitas suplementos para realizar tu práctica deportiva habitual.&lt;/p&gt;
+&lt;p&gt;¡Y lo más importante!, podrás rebatir a tu cuñado que no tiene sentido llevar tres barritas y cuatro geles de glucosa para salir dos horas en bicicleta, y que luego llega a casa y se toma una cerveza junto a una pizza familiar.&lt;/p&gt;
 &lt;p&gt;.............&lt;/p&gt;
-&lt;p&gt;Vale sí, yo también lo hago, lo de las barritas y los geles no, pero me gasto el dinero en la pizza.&lt;/p&gt;
+&lt;p&gt;.............&lt;/p&gt;
+&lt;p&gt;Vale sí, yo también lo hago, lo de las barritas y los geles no, pero en lo de la pizza me representa.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Advertencia:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Advertencia:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Debo advertir que la información que vas a encontrar a continuación no es ninguna guía nutricional para deportistas, no voy a aconsejar ni nombrar ningún suplemento, este contenido solo pretende plasmar conocimientos nutricionales para todo aquel que tenga curiosidad de aprender.&lt;/p&gt;
-&lt;p&gt;Tampoco es una cátedra en fisiología digestiva y la información se va a tratar de manera que pueda ser comprensible para todo el mundo, dando pequeñas pinceladas sobre los distintos temas.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Los contenidos que se van a tratar están redactados de manera que puedan ser comprensible para todo el mundo.&lt;/p&gt;
+&lt;p&gt;Este curso es un proyecto a largo plazo, los contenidos no están completos y se van a ir actualizando poco a poco.&lt;/p&gt;
+&lt;p&gt;Su creación responde a la necesidad de practicar la edición de contenidos.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
@@ -210,7 +218,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="291"></int>
+                  <int value="314"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -224,7 +232,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="4_120_2.14"></unicode>
+                <unicode value="4_120_2.18"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -233,11 +241,11 @@
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="persona_ejercicio.jpg"></string>
+                  <string value="Ciclista_mtb.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmp_sRDah/persona_ejercicio.jpg"></string>
+                  <string value="/tmp/tmpfhyxLs.eXe/previews/allyourbase/Ciclista_mtb.jpg"></string>
                   <string role="key" value="checksum"></string>
-                  <string value="89abdd1c6cb71af57656fca6388e3974"></string>
+                  <string value="3b4b0d9d81c2b4ca624060aa05fbe1da"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                   <int value="2"></int>
                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -264,7 +272,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="15"></int>
+           <int value="19"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -630,7 +638,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="294"></int>
+                        <int value="312"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -644,7 +652,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="2_126_2.18"></unicode>
+                      <unicode value="2_126_2.21"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="12">
                        <dictionary>
@@ -655,7 +663,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="estructura_primaria_de_las_proteinas.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp_sRDah/estructura_primaria_de_las_proteinas.jpg"></string>
+                        <string value="/tmp/tmpoKXiK6/estructura_primaria_de_las_proteinas.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f68a005a177756ed2632a8787ffd12eb"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -684,7 +692,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="19"></int>
+                 <int value="22"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="11"></reference>
                 </dictionary>
@@ -952,24 +960,29 @@
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Los glúcidos, también llamados hidratos de carbono o carbohidratos, son la principal fuente energética del organismo. Pero también forman parte de otras biomoléculas como la vitamina C, los anticuerpos o los ácidos nucleicos.&lt;/p&gt;
-&lt;p&gt;La unidad fundamental de los glúcidos es el monosacárido, que mediante enlaces de varios monosacáridos se obtiene un polisacárido.&lt;/p&gt;
-&lt;p&gt;Los polisacáridos estan formados por más de 10 moléculas de monosacáridos o derivados unidos.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;Según su composición, los polisacáridos se clasifican en:&lt;/p&gt;
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Los glúcidos, también llamados &lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #008000;&quot;&gt;hidratos de carbono&lt;/span&gt;&lt;/strong&gt; &lt;/span&gt;o &lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #008000;&quot;&gt;carbohidratos&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;, son la &lt;strong&gt;principal fuente energética&lt;/strong&gt; del organismo. Pero también forman parte de otras biomoléculas como la vitamina C, los anticuerpos o los ácidos nucleicos. La unidad fundamental de los glúcidos es el monosacárido, que mediante enlaces de varios monosacáridos se obtiene un polisacárido.&lt;/p&gt;
+&lt;p&gt;Los polisacáridos están formados por más de 10 moléculas de monosacáridos o derivados unidos.&lt;/p&gt;
+&lt;p&gt;Según su composición, los polisacáridos se clasifican en:&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-accordion&quot;&gt;
 &lt;h2&gt;Homopolisacáridos&lt;/h2&gt;
-&lt;p&gt;Son glúcidos formados por un solo tipo de monosacáridos como el glucógeno o el almidón.&lt;/p&gt;
+&lt;p&gt;Son glúcidos formados por un solo tipo de monosacáridos como el &lt;strong&gt;glucógeno&lt;/strong&gt; o el &lt;strong&gt;almidón&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2&gt;Heteropolisacáridos&lt;/h2&gt;
 &lt;p&gt;Formados por monosacáridos unidos a lípidos o proteínas.&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;La unidad esencial de los glúcidos son los monosacáridos, entre los que se encuentran la &lt;strong&gt;glucosa&lt;/strong&gt;, &lt;strong&gt;fructosa&lt;/strong&gt; y &lt;strong&gt;galactosa&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Monosacáridos&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;La unidad esencial de los glúcidos son los monosacáridos, entre los que se encuentran la &lt;strong&gt;glucosa&lt;/strong&gt;, la &lt;strong&gt;fructosa&lt;/strong&gt; y la &lt;strong&gt;galactosa,&lt;/strong&gt; también son conocidos como &lt;em&gt;&quot;azúcares simples”. &lt;/em&gt;La glucosa es el azúcar más importante de la dieta y se encuentra en altas cantidades en la pasta o los cereales. La fructosa es el azúcar más abundante en las frutas y la galactosa se encuentra en los lácteos.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Disacáridos&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Los &lt;strong&gt;disacáridos &lt;/strong&gt;son moléculas formadas por dos&lt;strong&gt; monosacáridos. &lt;/strong&gt;En la dieta podemos encontrar la &lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;maltosa&lt;/strong&gt;, la &lt;strong&gt;sacarosa&lt;/strong&gt; y la &lt;strong&gt;lactosa.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/disac_ridos.jpg&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;695&quot; height=&quot;335&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Las principales moléculas energéticas para el ser humano son el &lt;strong&gt;glucógeno&lt;/strong&gt; y el &lt;strong&gt;almidón&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Polisacáridos&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Los más importantes son el &lt;strong&gt;glucógeno&lt;/strong&gt; y el &lt;strong&gt;almidón&lt;/strong&gt;, que son las principales moléculas energéticas para el ser humano.&lt;br /&gt; &lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/gluc_geno_y_almid_n.jpg&quot; alt=&quot;Glucógeno y almidón&quot; title=&quot;Glucógeno y almidón&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;562&quot; height=&quot;193&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -991,7 +1004,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="292"></int>
+                        <int value="308"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1005,7 +1018,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="3_120_2.11"></unicode>
+                      <unicode value="3_120_2.17"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="18">
                        <dictionary>
@@ -1016,7 +1029,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="disac_ridos.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp_sRDah/disac_ridos.jpg"></string>
+                        <string value="/tmp/tmpoKXiK6/disac_ridos.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="e15b1ec702eff3b0c8a350ab4a41ff96"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1043,7 +1056,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="293"></int>
+                        <int value="310"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1057,7 +1070,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="3_120_2.12"></unicode>
+                      <unicode value="3_120_2.18"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="19">
                        <dictionary>
@@ -1068,7 +1081,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="gluc_geno_y_almid_n.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp_sRDah/gluc_geno_y_almid_n.jpg"></string>
+                        <string value="/tmp/tmpoKXiK6/gluc_geno_y_almid_n.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="48a797824e05a1f94da0b3590eb289f3"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1097,7 +1110,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="13"></int>
+                 <int value="19"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="17"></reference>
                 </dictionary>
@@ -1589,23 +1602,28 @@
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;El &lt;strong&gt;aparato digestivo&lt;/strong&gt; es el responsable de la digestión de los alimentos, es donde se realiza la digestión y absorción de nutrientes.&lt;/p&gt;
 &lt;p&gt;Cada una de las partes que lo componen tiene una función:&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-accordion&quot;&gt;
-&lt;h2&gt;La boca:&lt;/h2&gt;
-&lt;p&gt;·Es el punto donde comienza la digestión. Los dientes desmenuzan el alimento y rompen la estructura celular de los alimentos, produciéndose la liberación de algunos nutrientes. Además, la saliva ayuda a lubricar y dar forma al bolo alimentario.&lt;/p&gt;
-&lt;h2&gt;Encabezado 2&lt;/h2&gt;
-&lt;p&gt;Escriba su contenido...&lt;/p&gt;
+&lt;h2&gt;La boca&lt;/h2&gt;
+&lt;p&gt;Es el punto donde comienza la digestión, mediante la masticación y la saliva los alimentos se desmenuzan y se rompen la estructuras del mismo, produciéndose la liberación de algunos nutrientes.&lt;/p&gt;
+&lt;h2&gt;Esófago&lt;/h2&gt;
+&lt;p&gt;El alimento pasa a través del esófago hacia el estómago mediante contracciones peristálticas.&lt;/p&gt;
+&lt;h2&gt;Estómago&lt;/h2&gt;
+&lt;p&gt;El estómago está situado en la parte superior izquierda del abdomen y posee unas paredes musculares potentes que se contraen para mezclar y descomponer físicamente los alimentos.&lt;/p&gt;
+&lt;p&gt;Por otro lado, los jugos gástricos inician la descomposición  de las proteínas.&lt;/p&gt;
+&lt;h2&gt;Intestino delgado&lt;/h2&gt;
+&lt;p&gt;La digestión química de los alimentos ocurre en este tramo del intestino, donde los nutrientes se degradan hasta obtener los nutrientes esenciales capaces de atravesar la barrera intestinal y pasar a la sangre.&lt;/p&gt;
+&lt;p&gt;La digestión se realiza gracias a las enzimas pancreáticas y la bilis procedente del hígado, posteriormente las células intestinales captan los nutrientes y son liberados al torrente sanguíneo. Las células que forman la pared intestinal tienen una estructura específica capaz de absorber las sustancias digeridas.&lt;/p&gt;
+&lt;p&gt;Las sustancias no digeridas continúan su recorrido hacia el intestino grueso.&lt;/p&gt;
+&lt;h2&gt;Páncreas&lt;/h2&gt;
+&lt;p&gt;Produce enzimas necesarias para el proceso de digestión, además de otras hormonas.&lt;/p&gt;
+&lt;h2&gt;Hígado&lt;/h2&gt;
+&lt;p&gt;Es el órgano central  de todas las rutas metabólicas, además de sintetizar la bilis (necesaria para digerir los lípidos).&lt;/p&gt;
+&lt;h2&gt;Intestino grueso&lt;/h2&gt;
+&lt;p&gt;Este tramo intestinal es más corto que el intestino delgado y aquí llegan las sustancias no digeridas. Su función es absorber agua y deshidratar los restos para formar las heces.&lt;/p&gt;
+&lt;h2&gt;Recto y ano&lt;/h2&gt;
+&lt;p&gt;Es el tramo final del sistema digestivo donde se eliminan los restos en forma de heces.&lt;/p&gt;
 &lt;/div&gt;
-&lt;ul style=&quot;list-style-type: square;&quot;&gt;
-&lt;li&gt;&lt;strong&gt;La boca:&lt;/strong&gt; es el punto donde empieza la digestión, los dientes desmenuzan el alimento y rompen la estructura de los alimentos. Además la saliva ayuda a lubricar y dar forma al bolo alimentario.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Esófago:&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Estómago: &lt;/strong&gt;pH bajo permite romper las estructuras proteícas, las paredes músculares...&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Intestino delgado: &lt;/strong&gt;llega el bolo y se mezclan las enzimas, es donde ocurre la degrdación hasta los elementos capaces de atravesar la barrera intestinal y pasar a la sangre.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Páncreas: &lt;/strong&gt;enzimas&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hígado: &lt;/strong&gt;bilis y digestión de las grasas. Es el centro de todas las rutas metabólicas y sínteis y degradación&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Intestino Grueso:&lt;/strong&gt; su principal función es absorber líquidos. Aquí se terminan de descomponer los alimentos sin digerir&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Recto y ano:&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/Digestive_system_diagram_es.svg&quot; alt=&quot;Sisema digestivo&quot; title=&quot;Sistema digestivo&quot; width=&quot;409&quot; height=&quot;591&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;&lt;img src=&quot;resources/Digestive_system_diagram_es.svg&quot; alt=&quot;Sisema digestivo&quot; title=&quot;Sistema digestivo&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;409&quot; height=&quot;591&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1625,7 +1643,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="290"></int>
+                        <int value="309"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1639,7 +1657,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="15_120_2.7"></unicode>
+                      <unicode value="15_120_2.10"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="28">
                        <dictionary>
@@ -1650,7 +1668,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Digestive_system_diagram_es.svg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp_sRDah/Digestive_system_diagram_es.svg"></string>
+                        <string value="/tmp/tmpoKXiK6/Digestive_system_diagram_es.svg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d3ef0e3abbbacaae15a679cda41b4c77"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1679,7 +1697,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="8"></int>
+                 <int value="11"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="25"></reference>
                 </dictionary>
@@ -2147,7 +2165,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="295"></int>
+                        <int value="313"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2161,7 +2179,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="14_120_2.5"></unicode>
+                      <unicode value="14_120_2.8"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="38">
                        <dictionary>
@@ -2172,7 +2190,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="hidr_lisis_azucares.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp_sRDah/hidr_lisis_azucares.jpg"></string>
+                        <string value="/tmp/tmpoKXiK6/hidr_lisis_azucares.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="8591bbb868e2b4c48449297137cb49a0"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2201,7 +2219,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="6"></int>
+                 <int value="9"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="37"></reference>
                 </dictionary>
@@ -2500,7 +2518,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="37"></reference>
+  <reference key="4"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -3739,9 +3757,13 @@
   <string role="key" value="mxmlwidth"></string>
   <string value=""></string>
   <string role="key" value="release"></string>
-  <string value="2.8 Portable"></string>
+  <string value="2.8.1"></string>
   <string role="key" value="resources"></string>
   <dictionary>
+   <string role="key" value="3b4b0d9d81c2b4ca624060aa05fbe1da"></string>
+   <list>
+    <reference key="5"></reference>
+   </list>
    <string role="key" value="48a797824e05a1f94da0b3590eb289f3"></string>
    <list>
     <reference key="19"></reference>
@@ -3749,10 +3771,6 @@
    <string role="key" value="8591bbb868e2b4c48449297137cb49a0"></string>
    <list>
     <reference key="38"></reference>
-   </list>
-   <string role="key" value="89abdd1c6cb71af57656fca6388e3974"></string>
-   <list>
-    <reference key="5"></reference>
    </list>
    <string role="key" value="d3ef0e3abbbacaae15a679cda41b4c77"></string>
    <list>
